@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vivyh!
 - 🖥Sou Analista de Sistemas▫ 📚Estudando Front-end & Web Designer▫
-- 🏠Resido no bairro Liberdade, São Paulo-SP▫✨Para mais informações sobre mim, me siga no LinkedIn▫
+- 🏠Resido em São Paulo-SP▫✨Para mais informações sobre mim, me siga no LinkedIn▫
 
 <div align="center">
   <a href="https://github.com/vivyhv">
