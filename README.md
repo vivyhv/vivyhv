@@ -1,16 +1,26 @@
-## Olá, eu sou a Vivyh!
-- 🖥Sou Analista de Sistemas▫ 📚Estudando Front-end▫ 🏠Resido em São Paulo-SP▫ 👩🏻‍💻 Visite meu portfólio no Instagram: @vivyhv.ads▫
+## Olá, eu sou a Vivyh!🙋🏻‍♀️
+<div align="center">
+👩🏻‍💻 Sou Analista de Sistemas
+🏠 São Paulo - SP <br>
+🎮 LoL: vivyh hyviv
+📚 Estudando Front-end <br>
+✨ Visite meu portfólio no Instagram: @vivyhv.ads
+  </div>
+  <br>
 
 
 <div align="center">
   <a href="https://github.com/vivyhv">
-  <img height="200em" widht="48%" src="https://github-readme-stats.vercel.app/api?username=vivyhv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="167em" widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivyhv&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" widht="48%" src="https://github-readme-stats.vercel.app/api?username=vivyhv&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="167em" widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivyhv&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vivyh-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vivyh-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vivyh-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Vivyh-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  <img align="center" alt="Vivyh-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  <img align="center" alt="Vivyh-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   </div>
   
   ##
