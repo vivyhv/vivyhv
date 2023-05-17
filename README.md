@@ -1,10 +1,11 @@
 ## Olá, eu sou a Vivyh!🙋🏻‍♀️
 <div align="center">
-👩🏻‍💻 Sou Analista de Sistemas
+👩🏻‍💻 Sou uma DEV em <b>Ascensão</b> <br>
 🏠 São Paulo - SP <br>
-🎮 LoL: vivyh hyviv
-📚 Estudando Front-end <br>
-✨ Visite meu portfólio no Instagram: @vivyhv.ads
+🎮 LoL: vivyh hyviv <br>
+🐸 Discord: vivyhv#8652 <br>
+📚 Estudando Front-end & DBA <br>
+✨ Visite meu portfólio no Instagram: @vivyhv.ads <br>
   </div>
   <br>
 
@@ -32,6 +33,8 @@
   <a href="https://instagram.com/vivyhv.ads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vivyh.nascimento10@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vivianefeitosa10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
   
  ![Snake animation](https://github.com/vivyhv/vivyhv/blob/output/github-contribution-grid-snake.svg)
 </div>
