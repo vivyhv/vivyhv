@@ -1,14 +1,14 @@
 ## Olá, eu sou a Vivyh!🙋🏻‍♀️
-<div align="left">
-💁🏻‍♀️ 25 anos, Estudante <br>
+<div align="center">
 🏠 São Paulo - SP <br>
-👩🏻‍💻 Desenvolvedora Front-end <br>
-🎓 Tecnóloga em Análise de Sistemas <br>
-🎮 LoL: vivyh hyviv • CoD: Vivyhv <br>
 🐸 Discord: vivyhv <br>
+💁🏻‍♀️ 25 anos, Estudante <br>
+👩🏻‍💻 Desenvolvedora Front-end <br>
+🎮 LoL: vivyh hyviv • CoD: Vivyhv <br>
+🎓 Tecnóloga em Análise de Sistemas <br>
 📚 Skills: SQL Server • Html5 • Css3 • SEO <br>
-⚙️ Tools: VS Code • Sublime Text 3 • GitHub • SQL Management Studio • Canva <br>
-✨ Visite meu portfólio no Instagram: @vivyhv.ads
+✨ Visite meu portfólio no Instagram: @vivyhv.ads <br>
+⚙️ Tools: VS Code • Sublime Text 3 • GitHub • SQL Management Studio • Canva
   </div>
   <br>
 
