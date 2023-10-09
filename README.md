@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/vivyhv">
-  <img height="200em" widht="73%" src="https://github-readme-stats.vercel.app/api?username=vivyhv&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="268em" widht="73%" src="https://github-readme-stats.vercel.app/api?username=vivyhv&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="300em" widht="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivyhv&layout=compact&langs_count=7&theme=gotham"/>
 </div>
     
