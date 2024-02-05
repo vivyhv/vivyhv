@@ -6,7 +6,6 @@
 📚 Skills: HTML5 • CSS3 <br>
 🎓 Tecnóloga em Análise de Sistemas <br>
 ⚙️ Tools: VS Code • Sublime Text 3 • GitHub • Canva<br>
-🎮 The Sims 4 • Rise of the Tomb Raider • The Witcher III • Age of Empire III<br>
   </div>
   <br>
 
