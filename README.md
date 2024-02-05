@@ -1,14 +1,12 @@
 ## Olá, eu sou a Vivyh!🙋🏻‍♀️
 <div align="center">
 🏠 São Paulo - SP <br>
-🐸 Discord: vivyhv <br>
+👩🏻‍💻 Front-end Dev <br>
 💁🏻‍♀️ 25 anos, Estudante <br>
-👩🏻‍💻 Desenvolvedora Front-end <br>
-🎮 LoL: vivyh hyviv • CoD: Vivyhv <br>
+📚 Skills: HTML5 • CSS3 <br>
 🎓 Tecnóloga em Análise de Sistemas <br>
-📚 Skills: SQL Server • Html5 • Css3 • SEO <br>
-✨ Visite meu portfólio no Instagram: @vivyhv.ads <br>
-⚙️ Tools: VS Code • Sublime Text 3 • GitHub • SQL Management Studio • Canva
+⚙️ Tools: VS Code • Sublime Text 3 • GitHub • Canva<br>
+🎮 The Sims 4 • Rise of the Tomb Raider • The Witcher III • Age of Empire III<br>
   </div>
   <br>
 
